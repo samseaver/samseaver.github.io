@@ -2,7 +2,8 @@
 layout: page
 permalink: /cv/
 title: CV
-nav: true
+published: false
+nav: false
 nav_order: 4
 description: Curriculum vitae — download the PDF, or view it inline below.
 ---
