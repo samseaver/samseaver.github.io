@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Chicago, IL area · open to remote</p>
+    <p>Chicago, IL area</p>
+    <p>open to remote</p>
     <p><a href="mailto:samseaver@gmail.com">samseaver@gmail.com</a></p>
 
 selected_papers: true
