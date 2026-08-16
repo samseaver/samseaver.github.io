@@ -35,15 +35,15 @@ bundle exec jekyll serve
 
 ## Content
 
-| Area          | Source                                            |
-| ------------- | ------------------------------------------------- |
-| Homepage/bio  | `_pages/about.md`                                 |
-| Publications  | `_bibliography/papers.bib`                        |
-| Projects      | `_projects/*.md`                                  |
-| CV            | `_pages/cv.md` → `assets/pdf/Seaver_CV.pdf`       |
-| News          | `_news/*.md`                                      |
-| Profile photo | `assets/img/prof_pic.jpg`                         |
-| Social links  | `_data/socials.yml`                               |
+| Area          | Source                                      |
+| ------------- | ------------------------------------------- |
+| Homepage/bio  | `_pages/about.md`                           |
+| Publications  | `_bibliography/papers.bib`                  |
+| Projects      | `_projects/*.md`                            |
+| CV            | `_pages/cv.md` → `assets/pdf/Seaver_CV.pdf` |
+| News          | `_news/*.md`                                |
+| Profile photo | `assets/img/prof_pic.jpg`                   |
+| Social links  | `_data/socials.yml`                         |
 
 ---
 
