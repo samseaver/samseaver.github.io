@@ -5,7 +5,7 @@ description: The reference biochemistry database for genome-scale metabolic mode
 img: assets/img/1.jpg
 importance: 1
 category: tools
-related_publications: true
+related_publications: seaver2021modelseed, faria2023modelseed2, jeffryes2018pathway
 ---
 
 The **ModelSEED Biochemistry Database** is the reference set of compounds and reactions — with

@@ -5,7 +5,7 @@ description: Automated annotation & genome-scale reconstruction of plant primary
 img: assets/img/2.jpg
 importance: 2
 category: tools
-related_publications: true
+related_publications: seaver2014plantseed, seaver2018plantseed, seaver2015maize
 ---
 
 **PlantSEED** enables automated functional annotation and reconstruction of plant primary

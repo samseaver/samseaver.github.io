@@ -5,7 +5,7 @@ description: Making genome-scale metabolic models predictive from data
 img: assets/img/4.jpg
 importance: 4
 category: research
-related_publications: true
+related_publications: elalaoui2025pinn, mishra2025sorghum
 ---
 
 **BioFlux** is my line of work on **physics-informed machine learning** for metabolism:

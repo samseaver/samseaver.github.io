@@ -5,7 +5,7 @@ description: Plant metabolic-modeling apps and data integration on DOE's KBase (
 img: assets/img/3.jpg
 importance: 3
 category: tools
-related_publications: true
+related_publications: arkin2018kbase, woodcharlson2026kbase, kumari2021sorghum
 ---
 
 The **DOE Systems Biology Knowledgebase (KBase)** is an open platform for predictive biology. As a
