@@ -1,0 +1,9 @@
+# Social media links and usernames, displayed in the order defined here.
+# See the jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/Seaver_CV.pdf # path to your CV PDF (in assets/pdf/)
+email: samseaver@gmail.com
+github_username: samseaver
+linkedin_username: sam-seaver
+scholar_userid: DMaSBiAAAAAJ # Google Scholar ID
+orcid_id: 0000-0002-7674-5194
+rss_icon: true # comment this line to hide the RSS icon
