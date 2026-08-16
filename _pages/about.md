@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Finding signals in noisy systems — connecting data and tools in networks of every kind: molecular, metabolic, regulatory, social
+subtitle: "Finding signals in noisy systems — connecting data and tools in networks of every kind: molecular, metabolic, regulatory, social"
 
 profile:
   align: right
