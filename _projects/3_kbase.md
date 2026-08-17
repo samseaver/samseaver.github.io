@@ -2,7 +2,7 @@
 layout: page
 title: KBase — plant & metabolic modeling
 description: Plant metabolic-modeling apps and data integration on DOE's KBase (plants team)
-img: assets/img/3.jpg
+img:
 importance: 3
 category: tools
 related_publications: arkin2018kbase, woodcharlson2026kbase, kumari2021sorghum

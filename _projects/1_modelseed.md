@@ -2,7 +2,7 @@
 layout: page
 title: ModelSEED Biochemistry Database
 description: The reference biochemistry database for genome-scale metabolic modeling
-img: assets/img/1.jpg
+img:
 importance: 1
 category: tools
 related_publications: seaver2021modelseed, faria2023modelseed2, jeffryes2018pathway

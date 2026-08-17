@@ -2,7 +2,7 @@
 layout: page
 title: PlantSEED
 description: Automated annotation & genome-scale reconstruction of plant primary metabolism
-img: assets/img/2.jpg
+img:
 importance: 2
 category: tools
 related_publications: seaver2014plantseed, seaver2018plantseed, seaver2015maize

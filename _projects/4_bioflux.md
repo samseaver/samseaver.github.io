@@ -2,7 +2,7 @@
 layout: page
 title: Neural-Mechanistic Hybrid Modeling for Metabolism (BioFlux)
 description: Making genome-scale metabolic models predictive from data
-img: assets/img/4.jpg
+img:
 importance: 4
 category: research
 related_publications: elalaoui2025pinn, mishra2025sorghum
